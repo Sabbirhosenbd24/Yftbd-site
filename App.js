@@ -5,7 +5,7 @@ function App() {
   const [link, setLink] = useState("");
 
   function handleClick() {
-    alert("আপনি লিংক দিয়েছেন: " + link);
+    alert("আপনি লিঙ্ক দিয়েছেন: " + link);
   }
 
   return (
